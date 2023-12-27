@@ -12,7 +12,7 @@ variables:
   azureSubscription: '076c9449-f0fe-463d-8570-6daed2c27065'
 
   # Web app name
-  webAppName: 'mySuperAwesomeApp'
+  webAppName: 'PalaWebService'
 
   # Environment name
   environmentName: 'mySuperAwesomeApp'
